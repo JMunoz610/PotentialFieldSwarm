@@ -5,9 +5,13 @@ This project implements a **swarm robotics simulation** in ROS2 where robots coo
 - The **leader** performs a random walk while avoiding obstacles.
 - The **followers** use attractive and repulsive forces to maintain safe distances and move toward the leader.
 
+---
+
 ## Goal
 The main goal of this project is to:
 - Demonstrate **swarm coordination** using potential field algorithms.
+
+---
 
 ## Howw It Works
 - **Leader Behavior**:
@@ -23,6 +27,8 @@ The main goal of this project is to:
   - Implements potential field equations for swarm navigation.
 
 ![Swarm Environment](images/swarm.png)
+
+---
 
 ## Usage
 1. Build your ROS2 workspace:
