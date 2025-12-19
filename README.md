@@ -21,7 +21,9 @@ The main goal of this project is to:
   - Uses `rclpy` for node creation and spinning.
   - Publishes velocity commands (`cmd_vel`) and subscribes to laser scans and odometry.
   - Implements potential field equations for swarm navigation.
- 
+
+![Swarm Environment](images/swarm.png)
+
 ## Usage
 1. Build your ROS2 workspace:
    ```bash
