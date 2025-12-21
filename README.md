@@ -1,4 +1,4 @@
-# Potential Field Swarm (Aug 2025 - Dec 2025)
+# Potential Field Swarm (Nov 2025)
 
 ## Overview
 This project implements a **swarm robotics simulation** in ROS2 where robots coordinate using potential field methods. The system supports both **leader** and **follower** behaviors:
